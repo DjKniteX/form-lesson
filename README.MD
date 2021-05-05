@@ -1,4 +1,4 @@
-# We will built an html site that houses a form when submitted will send to the "site owner" an email.
+# We will build an html site that houses a form when submitted will send to the "site owner" an email.
 
 **Technologies we will be using are:**
 
